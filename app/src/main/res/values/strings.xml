@@ -1,0 +1,23 @@
+<resources>
+    <string name="title_app_name">Azmah</string>
+    <string name="title_activity_cheat">Cheat</string>
+
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="button_next">Next</string>
+    <string name="button_previous">Prev</string>
+    <string name="button_show_answer">Show answer</string>
+    <string name="button_cheat">Cheat</string>
+
+    <string name="toast_correct_answer">Correct</string>
+    <string name="toast_incorrect_answer">Incorrect</string>
+    <string name="toast_judgment">Cheating is wrong.</string>
+
+    <string name="text_question_one">Bats are mammals.</string>
+    <string name="text_question_two">Cats spend an average of 13 to 14 hours a day sleeping.</string>
+    <string name="text_question_three">Chimpanzees are nocturnal.</string>
+    <string name="text_question_four">Frogs have to drink lots of water.</string>
+    <string name="text_question_five">Rabbits are born blind.</string>
+    <string name="text_warning">Are you sure you want to do this?</string>
+
+</resources>
