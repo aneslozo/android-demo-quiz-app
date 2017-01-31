@@ -1,2 +1,2 @@
-# android-demo-quiz-app
-This is demo quiz Android application.
+# Azmah - Demo quiz application
+This is Android demo quiz application.
